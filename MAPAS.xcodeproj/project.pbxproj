@@ -14,6 +14,7 @@
 		0AE6F37F208B018500723D12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AE6F37D208B018500723D12 /* LaunchScreen.storyboard */; };
 		0AE6F38A208B018500723D12 /* MAPASTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE6F389208B018500723D12 /* MAPASTests.swift */; };
 		0AE6F395208B018500723D12 /* MAPASUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE6F394208B018500723D12 /* MAPASUITests.swift */; };
+		0AE6F3A3208B075900723D12 /* Places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE6F3A2208B075900723D12 /* Places.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0AE6F390208B018500723D12 /* MAPASUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MAPASUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AE6F394208B018500723D12 /* MAPASUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAPASUITests.swift; sourceTree = "<group>"; };
 		0AE6F396208B018500723D12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AE6F3A2208B075900723D12 /* Places.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Places.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				0AE6F374208B018500723D12 /* AppDelegate.swift */,
 				0AE6F376208B018500723D12 /* ViewController.swift */,
+				0AE6F3A2208B075900723D12 /* Places.swift */,
 				0AE6F378208B018500723D12 /* Main.storyboard */,
 				0AE6F37B208B018500723D12 /* Assets.xcassets */,
 				0AE6F37D208B018500723D12 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				0AE6F377208B018500723D12 /* ViewController.swift in Sources */,
 				0AE6F375208B018500723D12 /* AppDelegate.swift in Sources */,
+				0AE6F3A3208B075900723D12 /* Places.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
